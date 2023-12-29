@@ -1,3 +1,5 @@
+Horizon is a web application designed for the Horizon company, allowing users to manage information about the company. The project is developed using PHP, HTML5, CSS, and MYSQL 
+
 Before running the project, ensure you have the following prerequisites installed:
 
 1. Database Setup:
